@@ -71,6 +71,7 @@ a.anchor span {
 /* basic style */
 
 body {
+  margin: 20px;
   background-attachment: fixed;
   background-color: #fff;
   background-image: url('artsy.png');
