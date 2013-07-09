@@ -5,9 +5,11 @@ GistDeck is a presentation layer for one of our favorite text sharing tools.
 ## Instructions
 
 * Create Bookmarklet:
-```
+
+```html
 javascript:(function(){var%20s=document.createElement('script');s.setAttribute('src','https://rawgithub.com/fancyremarker/gistdeck/artsy/gistdeck.js');document.getElementsByTagName('body')[0].appendChild(s);})();
 ```
+
 * <a href="https://gist.github.com/b273f7a3089b1a238f5a">Visit Gist</a>
 * Click Bookmarklet
 * Present, using left and right keys
