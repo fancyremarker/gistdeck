@@ -5,7 +5,7 @@
   var $slides = $(".pagehead, .markdown-body h1, .markdown-body h2");
 
   function initialize() {
-    var GISTDECK_CSS_URL= window.GISTDECK_CSS_URL || "https://raw.github.com/fancyremarker/gistdeck/artsy/gistdeck.css";
+    var GISTDECK_CSS_URL= window.GISTDECK_CSS_URL || "https://rawgithub.com/fancyremarker/gistdeck/artsy/gistdeck.css";
 
     $('<link rel="stylesheet" href="' + GISTDECK_CSS_URL + '" type="text/css" />')
       .addClass('gistdeck-css')
