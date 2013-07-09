@@ -71,12 +71,11 @@ a.anchor span {
 /* basic style */
 
 body {
-  margin: 20px;
   background-attachment: fixed;
   background-color: #fff;
   background-image: url('artsy.png');
   background-repeat: no-repeat;
-  background-position: right top;
+  background-position: right 10px top 10px;
   font-family: "garamond pro", garamond, "times new roman", times, serif !important;
   font-size: 13px !important;
   color:#000 !important;
